@@ -1,0 +1,13 @@
+.page-break{
+    left:-48px;position:absolute;
+    height:22px;width:1160px;
+    background:url(img/pdf-break.png)repeat-x 0px 0px;
+}
+#break-outer{
+    height:22px;
+    position:relative;
+}
+#preview-container,#inner-preview{
+    border:none!important;
+}
+

@@ -1,0 +1,6 @@
+1. when replying add unnecessary data.
+
+2. delete video and assets
+
+4. fixed the pdf view page
+
