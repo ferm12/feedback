@@ -8,4 +8,3 @@ The app folder contains the REST API that is responsable for Creating, Retrievin
 
 The public folder, which is the fron-end of the application, contains the bootstrap, css, img, js, packages and video_view. The most important folder is the the js folder, which contains the front-end HTML5 Video, Svg.js, Video.js, jQuery.js, Backbone.js, Marrionete.js and Underscore.js. 
 
-The app can be seen in action here http://18.220.58.146/.
